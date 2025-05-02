@@ -3,11 +3,6 @@
 
 I'm currently pursuing a Bachelor's degree in Computer Science at Autonomal University of Hidalgo's State.
 
-
-## 📱 Contact Me: 
-
-<a href="mailto:fr397783@uaeh.edu.mx"><img                 src="https://camo.githubusercontent.com/e59822783200cc0d1b6dc87c84904e418164adfdb67fb23bc25fb5121963bbf0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d474d41494c26636f6c6f723d323435353566267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f2d636f6c6f723d7768697465" target="_blank"></a>
-
 ## 🔎 About Me
 
 I'm a trully passionate Tech Developer working hard to learn new things every day.
@@ -35,3 +30,10 @@ src="http://camo.githubusercontent.com/29f4bdfbd7dd2ed5be81e4a8c67e6333760845c51
  <a><img                 src="https://camo.githubusercontent.com/4804cde16e9487428ea27793df49b0ada0166115301325bade5532ae7060ed04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" target="_blank"></a>
     
 </p>
+
+
+[![Rahul's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelFranco719&theme=radical&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelFranco719)]()
+
+
