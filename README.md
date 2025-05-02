@@ -7,7 +7,7 @@ I'm currently pursuing a Bachelor's degree in Computer Science at Autonomal Univ
 
 I'm a trully passionate Tech Developer working hard to learn new things every day.
 
-Here's a quick summary of about what i'm good at:
+Here's a quick summary about what i'm good at:
 
 - **Project Developer 🧠:** I'm really into the process of creating new Projects. Starting from the Software Engineering principles and diving deeply into developer tasks.
 
